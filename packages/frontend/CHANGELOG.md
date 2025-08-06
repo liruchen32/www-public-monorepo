@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0-beta.9](https://github.com/liruchen32/www-public-monorepo/compare/www-frontend@0.1.0-beta.2...www-frontend@0.1.0-beta.9) (2025-08-06)
+
+
+### Bug Fixes
+
+* **frontend:** add autoprefixer ([c722d61](https://github.com/liruchen32/www-public-monorepo/commit/c722d614927b6309c363a74faa1ff279458d31a2))
+* **frontend:** remove console log ([2661881](https://github.com/liruchen32/www-public-monorepo/commit/26618818346a607549cab32ea5cbcacd3f622f96))
+* **frontend:** show topics page log ([81dd062](https://github.com/liruchen32/www-public-monorepo/commit/81dd062be38c69e18b3b7ca5eaf8b52ec2fcef15))
+
+
+
+
+
 # [0.1.0-beta.8](https://github.com/twreporter/www-public-monorepo/compare/www-frontend@0.1.0-beta.7...www-frontend@0.1.0-beta.8) (2025-08-06)
 
 
